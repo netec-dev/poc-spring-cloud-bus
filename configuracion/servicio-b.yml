@@ -1,6 +1,0 @@
-#
-app:
-  nombre-servicio: Servicio B (ACTUALIZADO Spring Cloud Bus)
-#
-server:
-  port: 9001

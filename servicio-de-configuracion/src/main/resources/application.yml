@@ -5,5 +5,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/netec-dev/poc-spring-cloud-bus.git
+          uri: https://github.com/netec-dev/poc-spring-cloud-bus-repo.git
           searchPaths: configuracion
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest

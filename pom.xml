@@ -42,7 +42,6 @@
 
 	<modules>
 		<module>servicio-de-configuracion</module>
-		<module>servicio-1</module>
 		<module>servicio-a</module>
 		<module>servicio-b</module>
 	</modules>
