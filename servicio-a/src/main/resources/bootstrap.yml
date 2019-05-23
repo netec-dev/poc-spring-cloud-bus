@@ -1,0 +1,7 @@
+  
+spring:
+  application:
+    name: servicio-a
+  cloud:
+    config:
+      uri: http://localhost:2000
