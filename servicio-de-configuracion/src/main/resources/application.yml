@@ -7,6 +7,7 @@ spring:
         git:
           uri: https://github.com/netec-dev/poc-spring-cloud-bus-repo.git
           searchPaths: configuracion
+    bus:      enabled: true
   rabbitmq:
     host: localhost
     port: 5672
